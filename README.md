@@ -2,6 +2,20 @@
   # Text Editor (PWA)
   
   Link to deployed application => [A.S.T.E - A Simple Text Editor](https://aste-text.herokuapp.com/)
+
+  ### Walkthrough of A Simple Text Editor A.S.T.E
+
+  ![Watch the video](https://github.com/ausamindec/PWA-textEditor/blob/main/assets/aste.gif)
+
+  ### The following image shows the application's registered service worker:
+
+(https://github.com/ausamindec/PWA-textEditor/blob/main/assets/serviceWorkers_ss.png)
+
+  ### The following image shows the application's IndexedDB storage:
+
+  (https://github.com/ausamindec/PWA-textEditor/blob/main/assets/indexedDB_ss.png)
+
+
   
   ## Table of Contents
 - [Description](#description)
