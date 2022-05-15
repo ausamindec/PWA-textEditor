@@ -8,12 +8,12 @@
   ![Watch the video](https://github.com/ausamindec/PWA-textEditor/blob/main/assets/aste.gif)
 
   ### The following image shows the application's registered service worker:
-
-(https://github.com/ausamindec/PWA-textEditor/blob/main/assets/serviceWorkers_ss.png)
+  
+  ![ScreenShot](https://github.com/ausamindec/PWA-textEditor/blob/main/assets/serviceWorkers_ss.png)
 
   ### The following image shows the application's IndexedDB storage:
 
-  (https://github.com/ausamindec/PWA-textEditor/blob/main/assets/indexedDB_ss.png)
+  ![ScreenShot](https://github.com/ausamindec/PWA-textEditor/blob/main/assets/indexedDB_ss.png)
 
 
   
